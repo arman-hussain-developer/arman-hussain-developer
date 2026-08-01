@@ -44,12 +44,12 @@ I have delivered 10+ production websites, including e-commerce platforms, NGO po
 
 | Project | Contribution |
 | --- | --- |
-| [pandex.in](https://pandex.in) | E-commerce platform built and delivered end-to-end, including hosting and security |
+| **[pandex.in](https://pandex.in)** · [Source](https://github.com/arman-hussain-developer/pandex-in) | Flagship industrial catalogue and lead-generation platform built and delivered end-to-end, including responsive development, technical SEO, hosting and security |
 | [deshtrust.org](https://deshtrust.org) | NGO portal with payment gateway and member registration system |
-| [himalayacrafts.in](https://himalayacrafts.in) | Full website delivery across development, hosting, and SEO |
-| [aisholidays.com](https://aisholidays.com) | Travel business website delivered end-to-end |
+| [himalayacrafts.in](https://himalayacrafts.in) · [Source](https://github.com/arman-hussain-developer/himalayacrafts-laravel) | Full website delivery across development, hosting, and SEO |
+| [aisholidays.com](https://aisholidays.com) · [Source](https://github.com/arman-hussain-developer/aisholidays-nextjs) | Travel business website delivered end-to-end |
 | [behatreenjeevanfoundation.com](https://behatreenjeevanfoundation.com) | NGO website development and deployment |
-| [rameshwarias.com](https://rameshwarias.com) | Dynamic coaching platform with courses and registration workflows |
+| [rameshwarias.com](https://rameshwarias.com) · [Source](https://github.com/arman-hussain-developer/rameshwarias-php) | Dynamic coaching platform with courses and registration workflows |
 | [ramias.org](https://ramias.org) | Dynamic coaching platform; payment integration in progress |
 | [allindiaadmissionsolution.com](https://allindiaadmissionsolution.com) | Freelance development and ongoing maintenance |
 
