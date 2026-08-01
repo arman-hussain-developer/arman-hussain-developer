@@ -45,6 +45,10 @@ I have delivered 10+ production websites, including e-commerce platforms, NGO po
 | Project | Contribution |
 | --- | --- |
 | **[pandex.in](https://pandex.in)** · [Source](https://github.com/arman-hussain-developer/pandex-in) | Flagship industrial catalogue and lead-generation platform built and delivered end-to-end, including responsive development, technical SEO, hosting and security |
+| [pandexstorage.com](https://pandexstorage.com) · [Source](https://github.com/arman-hussain-developer/pandex-storage) | Dynamic industrial storage catalogue with product, enquiry and database-managed content workflows |
+| [pandexracking.com](https://www.pandexracking.com) · [Source](https://github.com/arman-hussain-developer/pandex-racking) | PHP and MySQL racking platform with custom content management, blogs, galleries and enquiry automation |
+| [Pandex Business Systems](https://github.com/arman-hussain-developer/pandex-business-systems) | Responsive industrial storage and material-handling catalogue website |
+| [Palletracks](https://github.com/arman-hussain-developer/palletracks) | Product-led pallet-racking website with responsive enquiry experience |
 | [deshtrust.org](https://deshtrust.org) | NGO portal with payment gateway and member registration system |
 | [himalayacrafts.in](https://himalayacrafts.in) · [Source](https://github.com/arman-hussain-developer/himalayacrafts-laravel) | Full website delivery across development, hosting, and SEO |
 | [aisholidays.com](https://aisholidays.com) · [Source](https://github.com/arman-hussain-developer/aisholidays-nextjs) | Travel business website delivered end-to-end |
